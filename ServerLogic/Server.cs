@@ -11,19 +11,19 @@ namespace ServerLogic
     public class Server
     {
         private ConnectAccepter _connectAccepter;
-        private UsersHandler _userContainer;
+        private UsersHandler _usersHandler;
         private static Logger _logger = LogManager.GetCurrentClassLogger();
         private ServerState _state;
-        public ServerState State 
+        public ServerState State
         {
-            get => _state; 
+            get => _state;
             private set
             {
-                if(_state != value)
+                if (_state != value)
                 {
                     _state = value;
                     _logger.Info($"Server state changed: {State}");
-                }             
+                }
             }
         }
 
@@ -34,10 +34,10 @@ namespace ServerLogic
 
         public void StartServer(string address, int port)
         {
-            _userContainer = new UsersHandler();
-            _connectAccepter = new ConnectAccepter(address, port); // can throw ex
+            _usersHandler = new UsersHandler();
+            _connectAccepter = new ConnectAccepter(address, port);
 
-            _connectAccepter.ConnectAccepted += _userContainer.AddUser;
+            _connectAccepter.ConnectAccepted += _usersHandler.AddUser;
             _connectAccepter.AccepterStateChanged += OnAccepterStateChanged;
 
             var acceptThread = new Thread(new ThreadStart(_connectAccepter.StartWaitToAccept));
@@ -46,18 +46,18 @@ namespace ServerLogic
 
         public void StopServer()
         {
-            _userContainer?.CloseAll();
+            _usersHandler?.CloseAll();
             _connectAccepter?.StopWaitAccept();
             State = ServerState.Stopped;
         }
 
         internal void OnAccepterStateChanged(ServerState state)
         {
-            if(state == ServerState.Stopped)
+            if (state == ServerState.Stopped)
             {
                 StopServer();
             }
-            else if(state == ServerState.Runned)
+            else if (state == ServerState.Runned)
             {
                 State = ServerState.Runned;
             }

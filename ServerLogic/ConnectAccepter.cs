@@ -25,6 +25,7 @@ namespace ServerLogic
             _tcpListener = new TcpListener(IPAddress.Parse(_address), _port);
         }
 
+        // Метод ожидающий подключения клиента
         public void StartWaitToAccept()
         {
             try
@@ -45,6 +46,7 @@ namespace ServerLogic
             }
         }
 
+        // Метод остановки ожидания подключений
         public void StopWaitAccept()
         {
             _tcpListener.Stop();

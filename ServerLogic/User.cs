@@ -33,7 +33,7 @@ namespace ServerLogic
             _tcpClient = tcpClient;
             Stream = _tcpClient.GetStream();
             Id = Guid.NewGuid().ToString();
-            Name = Constants.DefaultIserName; 
+            Name = Constants.DefaultIserName;
 
             _sender = sender;
 
@@ -42,6 +42,7 @@ namespace ServerLogic
             _processingConveyor.NameSetReceived += OnSetName;
         }
 
+        // Обновление жизненного цикла пользователя в сети
         private void RefreshLiveCycle()
         {
             _sessionInterrupThread?.Interrupt();
@@ -49,6 +50,8 @@ namespace ServerLogic
             _sessionInterrupThread.Start();
         }
 
+        // Пользователь автоматически отключается, если не активен 90сек
+        // При активности данный метод прерывается и запускается заново см. RefreshLiveCycle
         private void Live()
         {
             try
@@ -61,11 +64,12 @@ namespace ServerLogic
 
         public void StartListen()
         {
-            _userThread = new Thread(new ThreadStart(WaitToReceiveMessage));
+            _userThread = new Thread(new ThreadStart(ListenMessages));
             _userThread.Start();
         }
 
-        private void WaitToReceiveMessage()
+        // Метод прослушки исходящих сообщений от пользователя
+        private void ListenMessages()
         {
             while (true)
             {
@@ -103,6 +107,8 @@ namespace ServerLogic
             UserConnectionClosed?.Invoke(this);
         }
 
+        // После подключения Tcp клиент шлет свое имя, чтобы его как то идентифицироваль остальные пользователи
+        // Этот метод обрабатывает эту ситуацию
         private void OnSetName(NameSet nameSetMessage)
         {
             if (string.IsNullOrWhiteSpace(nameSetMessage.Name)) return;
@@ -114,11 +120,10 @@ namespace ServerLogic
             // посылаем сообщение о входе в чат всем подключенным пользователям
             _sender.BroadcastMessage(new UserNetworkEvent(Id, Name, NetworkEvent.Connect).ToString(), Id);
 
-            Thread.Sleep(1000);
-
             _sender.SendOnlineUsers(Id);
         }
 
+        // Метод обработки отправки сообщения пользователь -> пользователь
         private void OnMessageTransfer(Letter letter)
         {
             // Сервер сам дописывает Id отправителя, чтобы получатель понял от кого сообщение
@@ -127,10 +132,10 @@ namespace ServerLogic
 
             var stringLetter = letter.ToString();
 
-           _sender.SendPrivateMessage(stringLetter, letter.ToId);
+            _sender.SendPrivateMessage(stringLetter, letter.ToId);
         }
 
-        // закрытие подключения
+        // Закрытие подключения
         protected internal void Close()
         {
             Stream?.Close();

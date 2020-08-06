@@ -64,3 +64,36 @@ C:\Users\Дмитрий\Desktop\Test task\Chat\ElcomChatClient\obj\Debug\ElcomCh
 C:\Users\Дмитрий\Desktop\Test task\Chat\ElcomChatClient\obj\Debug\ElcomChatClient.exe
 C:\Users\Дмитрий\Desktop\Test task\Chat\ElcomChatClient\obj\Debug\ElcomChatClient.pdb
 C:\Users\Дмитрий\Desktop\Test task\Chat\ElcomChatClient\obj\Debug\ElcomChatClient.ClientMainWindow.resources
+C:\Users\Дмитрий\Documents\TcpChat\ElcomChatClient\bin\Debug\ElcomChatClient.exe.config
+C:\Users\Дмитрий\Documents\TcpChat\ElcomChatClient\bin\Debug\ElcomChatClient.exe
+C:\Users\Дмитрий\Documents\TcpChat\ElcomChatClient\bin\Debug\ElcomChatClient.pdb
+C:\Users\Дмитрий\Documents\TcpChat\ElcomChatClient\bin\Debug\ChatProtocol.dll
+C:\Users\Дмитрий\Documents\TcpChat\ElcomChatClient\bin\Debug\ClientLogic.dll
+C:\Users\Дмитрий\Documents\TcpChat\ElcomChatClient\bin\Debug\System.Text.Json.dll
+C:\Users\Дмитрий\Documents\TcpChat\ElcomChatClient\bin\Debug\System.Memory.dll
+C:\Users\Дмитрий\Documents\TcpChat\ElcomChatClient\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Дмитрий\Documents\TcpChat\ElcomChatClient\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Дмитрий\Documents\TcpChat\ElcomChatClient\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Дмитрий\Documents\TcpChat\ElcomChatClient\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Дмитрий\Documents\TcpChat\ElcomChatClient\bin\Debug\System.Buffers.dll
+C:\Users\Дмитрий\Documents\TcpChat\ElcomChatClient\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Дмитрий\Documents\TcpChat\ElcomChatClient\bin\Debug\ChatProtocol.pdb
+C:\Users\Дмитрий\Documents\TcpChat\ElcomChatClient\bin\Debug\ChatProtocol.dll.config
+C:\Users\Дмитрий\Documents\TcpChat\ElcomChatClient\bin\Debug\ClientLogic.pdb
+C:\Users\Дмитрий\Documents\TcpChat\ElcomChatClient\bin\Debug\System.Text.Json.xml
+C:\Users\Дмитрий\Documents\TcpChat\ElcomChatClient\bin\Debug\System.Memory.xml
+C:\Users\Дмитрий\Documents\TcpChat\ElcomChatClient\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Дмитрий\Documents\TcpChat\ElcomChatClient\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Дмитрий\Documents\TcpChat\ElcomChatClient\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Дмитрий\Documents\TcpChat\ElcomChatClient\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Дмитрий\Documents\TcpChat\ElcomChatClient\bin\Debug\System.Buffers.xml
+C:\Users\Дмитрий\Documents\TcpChat\ElcomChatClient\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Дмитрий\Documents\TcpChat\ElcomChatClient\obj\Debug\ElcomChatClient.csprojAssemblyReference.cache
+C:\Users\Дмитрий\Documents\TcpChat\ElcomChatClient\obj\Debug\ElcomChatClient.exe.config
+C:\Users\Дмитрий\Documents\TcpChat\ElcomChatClient\obj\Debug\ElcomChatClient.ClientMainWindow.resources
+C:\Users\Дмитрий\Documents\TcpChat\ElcomChatClient\obj\Debug\ElcomChatClient.Properties.Resources.resources
+C:\Users\Дмитрий\Documents\TcpChat\ElcomChatClient\obj\Debug\ElcomChatClient.csproj.GenerateResource.cache
+C:\Users\Дмитрий\Documents\TcpChat\ElcomChatClient\obj\Debug\ElcomChatClient.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Documents\TcpChat\ElcomChatClient\obj\Debug\ElcomChatClient.csproj.CopyComplete
+C:\Users\Дмитрий\Documents\TcpChat\ElcomChatClient\obj\Debug\ElcomChatClient.exe
+C:\Users\Дмитрий\Documents\TcpChat\ElcomChatClient\obj\Debug\ElcomChatClient.pdb

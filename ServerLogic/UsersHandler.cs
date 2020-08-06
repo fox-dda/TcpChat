@@ -32,7 +32,7 @@ namespace ServerLogic
         public void RemoveUser(string id)
         {
             var user = GetUserById(id);
-            if(user != null)
+            if (user != null)
             {
                 user.Close();
             }
@@ -44,15 +44,17 @@ namespace ServerLogic
             return Users.FirstOrDefault(u => u.Id.Equals(id));
         }
 
+        // Метод отправки сообщения конкретному пользователю
         public void SendPrivateMessage(string message, string toId)
         {
             var toUser = GetUserById(toId);
-            if(toUser != null)
+            if (toUser != null)
             {
                 Send(toUser, message);
             }
         }
 
+        // Метод отправки сообщения всем, кроме отправителя
         public void BroadcastMessage(string message, string senderId)
         {
             for (int i = 0; i < Users.Count; i++)
@@ -69,7 +71,7 @@ namespace ServerLogic
         {
             for (int i = 0; i < Users.Count; i++)
             {
-                if (Users[i].Id != toId) 
+                if (Users[i].Id != toId)
                 {
                     var conEvent = new UserNetworkEvent(
                         Users[i].Id, Users[i].Name, NetworkEvent.Connect);
@@ -88,7 +90,7 @@ namespace ServerLogic
 
         public void CloseAll()
         {
-            foreach(var user in Users)
+            foreach (var user in Users)
             {
                 user.Close();
             }
@@ -104,6 +106,7 @@ namespace ServerLogic
             SendAllLeaveEvent(closedUser);
         }
 
+        // При отключении пользователя всем рассылается сообщение о его выходе из сети
         private void SendAllLeaveEvent(User leavedUser)
         {
             foreach (var user in Users)
@@ -115,7 +118,5 @@ namespace ServerLogic
                 .ToString());
             }
         }
-
-        public event Action<Exception> OnException;
     }
 }
