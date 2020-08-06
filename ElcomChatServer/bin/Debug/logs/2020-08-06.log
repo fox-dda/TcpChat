@@ -1,0 +1,127 @@
+2020-08-06 17:08:31.3515 Unnamed : {"Name":"Dmitry"}
+2020-08-06 17:08:41.1698 Unnamed : {"Name":"qwe"}
+2020-08-06 17:08:45.4397 qwe : {"FromId":"","ToId":"d0b1a065-e1f2-46d6-a0de-51d0732f5e19","Message":"qweeqweqwe"}
+2020-08-06 17:08:50.3634 Dmitry : {"FromId":"","ToId":"dba8ac4a-0c82-4338-bdd9-e834bbec5b07","Message":"111"}
+2020-08-06 17:08:51.8831 Dmitry : {"FromId":"","ToId":"dba8ac4a-0c82-4338-bdd9-e834bbec5b07","Message":"111"}
+2020-08-06 17:15:01.1314 Server state changed: Stopped
+2020-08-06 17:15:05.5946 Server state changed: Runned
+2020-08-06 17:15:19.5513 Unnamed : {"Name":"Dmitry"}
+2020-08-06 17:15:33.9263 Unnamed : {"Name":"12"}
+2020-08-06 17:15:45.9071 12 : {"FromId":"","ToId":"dec9765e-8a14-42f5-987c-01d2c5d251c8","Message":"qeqe1"}
+2020-08-06 17:15:50.3364 12 : {"FromId":"","ToId":"dec9765e-8a14-42f5-987c-01d2c5d251c8","Message":"qweqwe2"}
+2020-08-06 17:15:59.3933 Dmitry : {"FromId":"","ToId":"9574a76e-d335-4d7d-9ec9-ac04a83fc51e","Message":"qweqwe33"}
+2020-08-06 17:16:02.2482 Dmitry : {"FromId":"","ToId":"9574a76e-d335-4d7d-9ec9-ac04a83fc51e","Message":"3434"}
+2020-08-06 17:16:22.6425 Server state changed: Stopped
+2020-08-06 17:16:22.6505 Server state changed: Stopped
+2020-08-06 17:16:24.1997 Server state changed: Stopped
+2020-08-06 17:26:40.1681 Server state changed: Stopped
+2020-08-06 17:26:42.2270 Server state changed: Runned
+2020-08-06 17:27:03.0764 Accepted new TcpClient!
+2020-08-06 17:27:03.0894 Connected new User: Unnamed - 58503295-8c78-4adf-b82f-e5d5a1ca442b
+2020-08-06 17:27:03.2728 Unnamed : {"Name":"Dmitry"}
+2020-08-06 17:27:15.7368 Accepted new TcpClient!
+2020-08-06 17:27:15.7398 Connected new User: Unnamed - 1f5ddf90-4c1e-40af-adfb-9f20bbc82f10
+2020-08-06 17:27:15.9248 Unnamed : {"Name":"1"}
+2020-08-06 17:27:22.0224 1 : {"FromId":"","ToId":"58503295-8c78-4adf-b82f-e5d5a1ca442b","Message":"123"}
+2020-08-06 17:27:37.0947 Dmitry : {"FromId":"","ToId":"1f5ddf90-4c1e-40af-adfb-9f20bbc82f10","Message":"qweqwe"}
+2020-08-06 17:27:57.6047 Dmitry : {"FromId":"","ToId":"1f5ddf90-4c1e-40af-adfb-9f20bbc82f10","Message":"qwe"}
+2020-08-06 17:27:57.6736 Disconnected User: 1 - 1f5ddf90-4c1e-40af-adfb-9f20bbc82f10
+2020-08-06 17:28:07.9303 Disconnected User: Dmitry - 58503295-8c78-4adf-b82f-e5d5a1ca442b
+2020-08-06 17:28:07.9303 Server state changed: Stopped
+2020-08-06 17:28:07.9583 Server state changed: Stopped
+2020-08-06 17:28:12.2755 Server state changed: Stopped
+2020-08-06 17:30:57.3261 Server state changed: Stopped
+2020-08-06 17:30:58.6903 Server state changed: Runned
+2020-08-06 17:30:59.6772 Server state changed: Stopped
+2020-08-06 17:30:59.6772 Server state changed: Stopped
+2020-08-06 17:31:00.7227 Server state changed: Stopped
+2020-08-06 17:40:40.2361 Server state changed: Stopped
+2020-08-06 17:40:42.7159 Server state changed: Runned
+2020-08-06 17:40:57.2477 Accepted new TcpClient!
+2020-08-06 17:40:57.2807 Connected new User: Unnamed - e855f057-72ee-42c7-94b3-55ec55ddc536
+2020-08-06 17:40:57.4766 Unnamed : {"Name":"Dmitry"}
+2020-08-06 17:41:11.9015 Accepted new TcpClient!
+2020-08-06 17:41:11.9155 Connected new User: Unnamed - 6038b5dc-76dd-445e-aaf4-994f8d9fdd4b
+2020-08-06 17:41:12.1124 Unnamed : {"Name":"Ser"}
+2020-08-06 17:41:19.2434 Ser : {"FromId":"","ToId":"e855f057-72ee-42c7-94b3-55ec55ddc536","Message":"sdfdfs"}
+2020-08-06 17:41:26.2008 Dmitry : {"FromId":"","ToId":"6038b5dc-76dd-445e-aaf4-994f8d9fdd4b","Message":"sdfsdfsdfsdf"}
+2020-08-06 17:41:35.3541 Server state changed: Stopped
+2020-08-06 17:41:35.4421 Disconnected User: Dmitry - e855f057-72ee-42c7-94b3-55ec55ddc536
+2020-08-06 17:41:35.4581 Disconnected User: Ser - 6038b5dc-76dd-445e-aaf4-994f8d9fdd4b
+2020-08-06 17:41:37.5394 Server state changed: Runned
+2020-08-06 17:41:53.5243 Accepted new TcpClient!
+2020-08-06 17:41:53.5393 Connected new User: Unnamed - f1ee70bd-cdd3-458c-9dcf-8acea8f45b47
+2020-08-06 17:41:53.7292 Unnamed : {"Name":"Jojo"}
+2020-08-06 17:42:09.9717 Accepted new TcpClient!
+2020-08-06 17:42:09.9887 Connected new User: Unnamed - c908cfca-ab2e-4bf4-9fd7-bf8d6469fbde
+2020-08-06 17:42:10.1985 Unnamed : {"Name":"Tom"}
+2020-08-06 17:42:28.3858 Tom : {"FromId":"","ToId":"f1ee70bd-cdd3-458c-9dcf-8acea8f45b47","Message":"Hello, jojo"}
+2020-08-06 17:42:44.8977 Jojo : {"FromId":"","ToId":"c908cfca-ab2e-4bf4-9fd7-bf8d6469fbde","Message":"Hello, Tom!"}
+2020-08-06 17:42:57.4886 Tom : {"FromId":"","ToId":"f1ee70bd-cdd3-458c-9dcf-8acea8f45b47","Message":"Byyy"}
+2020-08-06 17:43:08.2084 Server state changed: Stopped
+2020-08-06 17:43:08.2084 Disconnected User: Jojo - f1ee70bd-cdd3-458c-9dcf-8acea8f45b47
+2020-08-06 17:43:08.2084 Disconnected User: Tom - c908cfca-ab2e-4bf4-9fd7-bf8d6469fbde
+2020-08-06 17:48:31.7527 Server state changed: Stopped
+2020-08-06 17:48:33.6970 Server state changed: Runned
+2020-08-06 17:48:52.4107 Accepted new TcpClient!
+2020-08-06 17:48:52.4257 Connected new User: Unnamed - 15f73361-d72d-4e1b-bd1a-9141752dcd9d
+2020-08-06 17:48:52.5906 Unnamed : {"Name":"Dmitry"}
+2020-08-06 17:49:01.9112 Accepted new TcpClient!
+2020-08-06 17:49:01.9397 Connected new User: Unnamed - 8a636a57-cfef-4b8e-8f9c-9125a40dd61a
+2020-08-06 17:49:02.1626 Unnamed : {"Name":"asd"}
+2020-08-06 17:49:07.5923 asd : {"FromId":"","ToId":"15f73361-d72d-4e1b-bd1a-9141752dcd9d","Message":"111"}
+2020-08-06 17:49:14.8464 Server state changed: Stopped
+2020-08-06 17:49:14.9983 Disconnected User: asd - 8a636a57-cfef-4b8e-8f9c-9125a40dd61a
+2020-08-06 17:49:14.9983 Disconnected User: Dmitry - 15f73361-d72d-4e1b-bd1a-9141752dcd9d
+2020-08-06 17:50:31.5956 Server state changed: Stopped
+2020-08-06 17:50:35.1458 Server state changed: Runned
+2020-08-06 17:50:36.6695 Server state changed: Stopped
+2020-08-06 17:50:47.9848 Server state changed: Stopped
+2020-08-06 17:50:53.5017 Server state changed: Runned
+2020-08-06 17:51:12.2016 Accepted new TcpClient!
+2020-08-06 17:51:12.2346 Connected new User: Unnamed - 33a5b678-a591-488c-8808-eeb695c6af56
+2020-08-06 17:51:12.4284 Unnamed : {"Name":"Dmitry"}
+2020-08-06 17:52:04.3830 Disconnected User: Dmitry - 33a5b678-a591-488c-8808-eeb695c6af56
+2020-08-06 17:52:10.2350 Server state changed: Stopped
+2020-08-06 20:04:39.7927 Server state changed: Stopped
+2020-08-06 20:04:41.7826 Server state changed: Runned
+2020-08-06 20:04:50.7330 Accepted new TcpClient!
+2020-08-06 20:04:50.7440 Connected new User: Unnamed - d6507a4e-ce7b-435d-bdd9-1674086b4062
+2020-08-06 20:04:50.8939 Unnamed : {"Name":"Dmitry"}
+2020-08-06 20:05:16.2033 Accepted new TcpClient!
+2020-08-06 20:05:16.2033 Connected new User: Unnamed - f9c724e4-0e38-40a3-8c32-501b28d38c2c
+2020-08-06 20:05:16.3542 Unnamed : {"Name":"123"}
+2020-08-06 20:05:31.3774 123 : {"FromId":"","ToId":"d6507a4e-ce7b-435d-bdd9-1674086b4062","Message":"\u041F\u0440\u0438\u0432\u0435\u0442! \u0414\u0438\u043C\u0430!"}
+2020-08-06 20:05:54.2077 Dmitry : {"FromId":"","ToId":"f9c724e4-0e38-40a3-8c32-501b28d38c2c","Message":"\u041D\u0443 \u043F\u0440\u0438\u0432\u0435\u0442"}
+2020-08-06 20:06:33.9301 Accepted new TcpClient!
+2020-08-06 20:06:33.9301 Connected new User: Unnamed - ecc14693-bc35-42e2-847e-2939f2edd114
+2020-08-06 20:06:34.0760 Unnamed : {"Name":"\u0421\u0435\u0440\u0435\u0433\u0430 \u0431\u043B\u0438\u043D"}
+2020-08-06 20:06:40.7388 Серега блин : {"FromId":"","ToId":"d6507a4e-ce7b-435d-bdd9-1674086b4062","Message":"\u041E, \u043F\u0440\u0438\u0432\u0435\u0442"}
+2020-08-06 20:06:53.9270 Dmitry : {"FromId":"","ToId":"ecc14693-bc35-42e2-847e-2939f2edd114","Message":"\u0414\u043E\u0440\u043E\u0432\u0430"}
+2020-08-06 20:07:01.4434 Disconnected User: 123 - f9c724e4-0e38-40a3-8c32-501b28d38c2c
+2020-08-06 20:07:36.3832 Dmitry : {"FromId":"","ToId":"ecc14693-bc35-42e2-847e-2939f2edd114","Message":"\u0446\u0443\u0446\u0443"}
+2020-08-06 20:07:36.4042 Disconnected User: Серега блин - ecc14693-bc35-42e2-847e-2939f2edd114
+2020-08-06 20:07:53.0634 Server state changed: Stopped
+2020-08-06 20:07:53.0953 Disconnected User: Dmitry - d6507a4e-ce7b-435d-bdd9-1674086b4062
+2020-08-06 20:12:44.7803 Server state changed: Stopped
+2020-08-06 20:12:47.9990 Server state changed: Runned
+2020-08-06 20:13:23.0334 Accepted new TcpClient!
+2020-08-06 20:13:23.0504 Connected new User: Unnamed - d1591ecb-3e24-46ee-8017-69af485f6bc8
+2020-08-06 20:13:23.1963 Unnamed : {"Name":"Dmitry"}
+2020-08-06 20:13:28.0582 Accepted new TcpClient!
+2020-08-06 20:13:28.0582 Connected new User: Unnamed - 95d934bc-604b-4a96-a940-65f5fb7c071a
+2020-08-06 20:13:28.1952 Unnamed : {"Name":"Jeka"}
+2020-08-06 20:13:33.2932 Accepted new TcpClient!
+2020-08-06 20:13:33.2932 Connected new User: Unnamed - cacd93e6-d89c-40cb-8508-8d78bdc7484e
+2020-08-06 20:13:33.4471 Unnamed : {"Name":"Boka"}
+2020-08-06 20:13:52.9282 Dmitry : {"FromId":"","ToId":"95d934bc-604b-4a96-a940-65f5fb7c071a","Message":"Hello"}
+2020-08-06 20:14:02.1585 Jeka : {"FromId":"","ToId":"d1591ecb-3e24-46ee-8017-69af485f6bc8","Message":"Hi"}
+2020-08-06 20:14:15.3592 Boka : {"FromId":"","ToId":"d1591ecb-3e24-46ee-8017-69af485f6bc8","Message":"Hellooooooo"}
+2020-08-06 20:14:30.8206 Dmitry : {"FromId":"","ToId":"cacd93e6-d89c-40cb-8508-8d78bdc7484e","Message":"Hiiiii!"}
+2020-08-06 20:14:49.0367 Boka : {"FromId":"","ToId":"95d934bc-604b-4a96-a940-65f5fb7c071a","Message":"He"}
+2020-08-06 20:14:49.0697 Disconnected User: Jeka - 95d934bc-604b-4a96-a940-65f5fb7c071a
+2020-08-06 20:14:57.4458 Boka : {"FromId":"","ToId":"d1591ecb-3e24-46ee-8017-69af485f6bc8","Message":"dfdf"}
+2020-08-06 20:15:09.9887 Dmitry : {"FromId":"","ToId":"cacd93e6-d89c-40cb-8508-8d78bdc7484e","Message":"sadasdasd"}
+2020-08-06 20:15:10.0267 Disconnected User: Boka - cacd93e6-d89c-40cb-8508-8d78bdc7484e
+2020-08-06 20:15:15.3360 Server state changed: Stopped
+2020-08-06 20:15:15.3360 Disconnected User: Dmitry - d1591ecb-3e24-46ee-8017-69af485f6bc8

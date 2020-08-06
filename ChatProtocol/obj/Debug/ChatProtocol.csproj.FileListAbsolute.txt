@@ -1,0 +1,56 @@
+C:\Users\Дмитрий\Desktop\Chat\ChatProtocol\obj\Debug\ChatProtocol.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Desktop\Chat\ChatProtocol\bin\Debug\ChatProtocol.dll.config
+C:\Users\Дмитрий\Desktop\Chat\ChatProtocol\bin\Debug\ChatProtocol.dll
+C:\Users\Дмитрий\Desktop\Chat\ChatProtocol\bin\Debug\ChatProtocol.pdb
+C:\Users\Дмитрий\Desktop\Chat\ChatProtocol\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Дмитрий\Desktop\Chat\ChatProtocol\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Дмитрий\Desktop\Chat\ChatProtocol\bin\Debug\System.Buffers.dll
+C:\Users\Дмитрий\Desktop\Chat\ChatProtocol\bin\Debug\System.Memory.dll
+C:\Users\Дмитрий\Desktop\Chat\ChatProtocol\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Дмитрий\Desktop\Chat\ChatProtocol\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Дмитрий\Desktop\Chat\ChatProtocol\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Дмитрий\Desktop\Chat\ChatProtocol\bin\Debug\System.Text.Json.dll
+C:\Users\Дмитрий\Desktop\Chat\ChatProtocol\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Дмитрий\Desktop\Chat\ChatProtocol\bin\Debug\System.ValueTuple.dll
+C:\Users\Дмитрий\Desktop\Chat\ChatProtocol\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Дмитрий\Desktop\Chat\ChatProtocol\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Дмитрий\Desktop\Chat\ChatProtocol\bin\Debug\System.Buffers.xml
+C:\Users\Дмитрий\Desktop\Chat\ChatProtocol\bin\Debug\System.Memory.xml
+C:\Users\Дмитрий\Desktop\Chat\ChatProtocol\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Дмитрий\Desktop\Chat\ChatProtocol\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Дмитрий\Desktop\Chat\ChatProtocol\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Дмитрий\Desktop\Chat\ChatProtocol\bin\Debug\System.Text.Json.xml
+C:\Users\Дмитрий\Desktop\Chat\ChatProtocol\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Дмитрий\Desktop\Chat\ChatProtocol\bin\Debug\System.ValueTuple.xml
+C:\Users\Дмитрий\Desktop\Chat\ChatProtocol\obj\Debug\ChatProtocol.csproj.CopyComplete
+C:\Users\Дмитрий\Desktop\Chat\ChatProtocol\obj\Debug\ChatProtocol.dll
+C:\Users\Дмитрий\Desktop\Chat\ChatProtocol\obj\Debug\ChatProtocol.pdb
+C:\Users\Дмитрий\Desktop\Chat\ChatProtocol\obj\Debug\ChatProtocol.csprojAssemblyReference.cache
+C:\Users\Дмитрий\Desktop\Test task\Chat\ChatProtocol\bin\Debug\ChatProtocol.dll.config
+C:\Users\Дмитрий\Desktop\Test task\Chat\ChatProtocol\bin\Debug\ChatProtocol.dll
+C:\Users\Дмитрий\Desktop\Test task\Chat\ChatProtocol\bin\Debug\ChatProtocol.pdb
+C:\Users\Дмитрий\Desktop\Test task\Chat\ChatProtocol\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Дмитрий\Desktop\Test task\Chat\ChatProtocol\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Дмитрий\Desktop\Test task\Chat\ChatProtocol\bin\Debug\System.Buffers.dll
+C:\Users\Дмитрий\Desktop\Test task\Chat\ChatProtocol\bin\Debug\System.Memory.dll
+C:\Users\Дмитрий\Desktop\Test task\Chat\ChatProtocol\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Дмитрий\Desktop\Test task\Chat\ChatProtocol\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Дмитрий\Desktop\Test task\Chat\ChatProtocol\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Дмитрий\Desktop\Test task\Chat\ChatProtocol\bin\Debug\System.Text.Json.dll
+C:\Users\Дмитрий\Desktop\Test task\Chat\ChatProtocol\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Дмитрий\Desktop\Test task\Chat\ChatProtocol\bin\Debug\System.ValueTuple.dll
+C:\Users\Дмитрий\Desktop\Test task\Chat\ChatProtocol\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Дмитрий\Desktop\Test task\Chat\ChatProtocol\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Дмитрий\Desktop\Test task\Chat\ChatProtocol\bin\Debug\System.Buffers.xml
+C:\Users\Дмитрий\Desktop\Test task\Chat\ChatProtocol\bin\Debug\System.Memory.xml
+C:\Users\Дмитрий\Desktop\Test task\Chat\ChatProtocol\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Дмитрий\Desktop\Test task\Chat\ChatProtocol\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Дмитрий\Desktop\Test task\Chat\ChatProtocol\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Дмитрий\Desktop\Test task\Chat\ChatProtocol\bin\Debug\System.Text.Json.xml
+C:\Users\Дмитрий\Desktop\Test task\Chat\ChatProtocol\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Дмитрий\Desktop\Test task\Chat\ChatProtocol\bin\Debug\System.ValueTuple.xml
+C:\Users\Дмитрий\Desktop\Test task\Chat\ChatProtocol\obj\Debug\ChatProtocol.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Desktop\Test task\Chat\ChatProtocol\obj\Debug\ChatProtocol.csproj.CopyComplete
+C:\Users\Дмитрий\Desktop\Test task\Chat\ChatProtocol\obj\Debug\ChatProtocol.dll
+C:\Users\Дмитрий\Desktop\Test task\Chat\ChatProtocol\obj\Debug\ChatProtocol.pdb
+C:\Users\Дмитрий\Desktop\Test task\Chat\ChatProtocol\obj\Debug\ChatProtocol.csprojAssemblyReference.cache
